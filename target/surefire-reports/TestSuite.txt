@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 20.825 s <<< FAILURE! - in TestSuite
+Academy.E2Eframeworkproject.AppTest.testApp  Time elapsed: 0.014 s  <<< FAILURE!
+java.lang.AssertionError: 
+	at Academy.E2Eframeworkproject.AppTest.testApp(AppTest.java:26)
+
